@@ -101,14 +101,15 @@ http://localhost:8501
 
 ## 📸 Demo
 
-Add screenshots of the application here.
+## 📸 Screenshots
 
-Example:
+### Home Page
 
-```
-assets/home.png
-assets/recommendation.png
-```
+![Home Page](assets/Home.png)
+
+### Recommendation Results
+
+![Recommendations](assets/recommendation.png)
 
 ---
 
@@ -166,7 +167,7 @@ git push origin feature-name
 **Japneet Singh**
 
 * GitHub: https://github.com/jpneet
-* LinkedIn: Add your LinkedIn profile here
+
 
 ---
 
